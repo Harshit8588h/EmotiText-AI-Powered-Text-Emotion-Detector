@@ -1,7 +1,8 @@
-# EmotiText-AI-Powered-Text-Emotion-Detector
+# EmotiText — AI-Powered Text Emotion Detector 
+
+
 A small project I built for fun using NLP and deep learning — it detects emotions (like joy, anger, sadness) from raw text input.
 
-# EmotiText — AI-Powered Text Emotion Detector 
 
 This is a small project I created for fun — it uses **Natural Language Processing** and a pre-trained deep learning model to **detect emotions from plain text**.
 
